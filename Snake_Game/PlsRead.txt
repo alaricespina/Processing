@@ -4,3 +4,7 @@ Made using Processing (Java)
 Arrow Keys for control
 
 No Scoring Yet
+
+When Downloading just extract the zip and open the file in processing
+
+make sure that Snake_Game.pde, Snake.pde, and Food.pde is on the same folder
